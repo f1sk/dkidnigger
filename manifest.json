@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "Danish",
+    "name": "Kørekort",
+    "short_name": "Kørekort",
+    "display": "fullscreen",
+    "background_color": "#01132a",
+    "theme_color": "#01132a",
+    "start_url": "https://f1sk.github.io/dkid_wam/",
+    "description": "Kørekort",
+    "orientation": "portrait",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "url": "https://f1sk.github.io/dkid_wam",
+    "icons": [
+        {
+            "src": "https://f1sk.github.io/dkid/assets/ic_launcher_foreground.png",
+            "type": "image/png",
+            "sizes": "1920x1080"
+        }
+    ]
+}
